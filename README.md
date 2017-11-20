@@ -2,5 +2,4 @@
 A solution for using Gate NLP solution in Python
 
 
-This a test !!
 
